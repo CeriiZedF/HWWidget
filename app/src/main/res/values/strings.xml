@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HWWidget</string>
+    <string name="text_view_fio">ПІБ</string>
+    <string name="text_view_age">Рік</string>
+    <string name="text_view_salary">Рівень зарплатні</string>
+    <string name="experienceCheckbox">Досвід роботи від 2 років</string>
+    <string name="teamworkCheckbox">Навички командної розробки</string>
+    <string name="travelCheckbox">Готовність до відряджень</string>
+</resources>
